@@ -22,8 +22,8 @@ This project was developed using various JavaScript libraries and tools. Below i
 Clone the project and install the dependencies:
 
 ```bash
-git clone https://github.com/enisba/WeatherForecastApp.git
-cd WeatherForecastApp
+git clone https://github.com/enisba/weather-app.git
+cd weather-app
 npm install
 ```
 ## Images from the App
