@@ -2,6 +2,10 @@
 
 This project is a weather forecast application built using React and Material-UI. By entering the city name, the user can get weather information for the selected city.
 
+## Live Demo
+
+Check out the live site here: [https://enisba.github.io/weather-app](https://enisba.github.io/weather-app)
+
 ## Features
 - Real-time weather information
 - City suggestion system
