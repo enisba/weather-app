@@ -1,7 +1,6 @@
 import { createTheme } from '@mui/material/styles';
 import { red } from '@mui/material/colors';
 
-// Temayı oluşturun
 const theme = createTheme({
   palette: {
     primary: {
